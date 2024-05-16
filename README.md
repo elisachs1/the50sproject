@@ -1,5 +1,5 @@
 # the50sproject
-##Credits
+## Credits
 Coded: Eli
 Researched: Eli and Lily
 Designed: Lily
